@@ -1,0 +1,3 @@
+rootProject.name='TopDrawerLayout'
+include ':library'
+include ':sample'
